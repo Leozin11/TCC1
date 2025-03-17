@@ -2,7 +2,7 @@
 
 Leonardo Augusto Pereira do Carmo
 
-18 de Agosto de 2024
+1 de Fevereiro de 2025
 
 Leonardo Augusto Pereira do Carmo iniciou sua jornada acadêmica no curso de Jogos Digitais, um campo que sempre despertou seu interesse, principalmente pela forma como combinava criatividade e tecnologia. No entanto, ao longo dos semestres, Leonardo percebeu que sua verdadeira paixão residia na programação. Ele se viu fascinado pela lógica e pelo desafio de criar códigos que dessem vida a ideias e conceitos. A descoberta dessa inclinação natural o levou a considerar outras opções que pudessem proporcionar uma base mais sólida em programação e desenvolvimento de software. Foi então que, após uma pesquisa detalhada e reflexões sobre seus interesses, Leonardo decidiu migrar para o curso de Engenharia de Software.
 
