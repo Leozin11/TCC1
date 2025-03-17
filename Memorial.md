@@ -1,58 +1,23 @@
-# TCC1
-Memorial Descritivo da Graduação em Engenharia de Software (2020 - 2025)
+# Memorial Descritivo da Graduação em Sistemas de Informação na PUC Minas (2020 - 2024)
 
 Leonardo Augusto Pereira do Carmo
-16 de Fevereiro de 2025
 
-   Leonardo Augusto Pereira do Carmo iniciou sua jornada acadêmica no curso de Jogos Digitais, motivado pelo desejo de explorar a união entre criatividade e tecnologia. 
-Desde jovem, sempre foi fascinado por videogames, não apenas como jogador, mas também pelo interesse em entender como esses universos digitais eram construídos. 
-O curso parecia a escolha natural, já que oferecia a oportunidade de aprender sobre design de jogos, criação de personagens e desenvolvimento de ambientes virtuais.
+18 de Agosto de 2024
 
-    Durante os primeiros semestres, Leonardo mergulhou de cabeça nos conteúdos oferecidos. No entanto, com o passar do tempo, percebeu que sua verdadeira paixão estava mais 
-focada na programação do que no design artístico. A lógica, a solução de problemas e a possibilidade de criar funcionalidades através de código o encantaram cada vez mais. 
-Essa descoberta foi um momento decisivo em sua trajetória acadêmica, levando-o a refletir sobre o caminho que desejava seguir. Após uma análise cuidadosa de suas metas e 
-do que realmente o motivava, decidiu migrar para o curso de Engenharia de Software, uma área que oferecia uma formação mais robusta em desenvolvimento de sistemas e 
-aplicações.
+Leonardo Augusto Pereira do Carmo iniciou sua jornada acadêmica no curso de Jogos Digitais, um campo que sempre despertou seu interesse, principalmente pela forma como combinava criatividade e tecnologia. No entanto, ao longo dos semestres, Leonardo percebeu que sua verdadeira paixão residia na programação. Ele se viu fascinado pela lógica e pelo desafio de criar códigos que dessem vida a ideias e conceitos. A descoberta dessa inclinação natural o levou a considerar outras opções que pudessem proporcionar uma base mais sólida em programação e desenvolvimento de software. Foi então que, após uma pesquisa detalhada e reflexões sobre seus interesses, Leonardo decidiu migrar para o curso de Engenharia de Software.
 
-     Essa mudança de curso representou um marco importante em sua vida. A transição para a Engenharia de Software trouxe novos desafios, mas também abriu as portas para um 
-universo de oportunidades. Na PUC Minas, Leonardo encontrou um ambiente que favorecia o aprendizado prático, permitindo que ele aprofundasse seus conhecimentos em programação e 
-desenvolvimento de software. Além disso, o curso proporcionava uma visão mais ampla da área de tecnologia, abordando não apenas o desenvolvimento de sistemas, mas também 
-questões como segurança da informação, gerenciamento de projetos e qualidade de software.
+Essa mudança de curso representou um marco significativo em sua trajetória acadêmica. Leonardo não apenas encontrou um ambiente que correspondia melhor às suas aspirações, mas também passou a explorar mais profundamente áreas que realmente o motivavam. O curso de Engenharia de Software na PUC Minas oferecia exatamente o que ele procurava: uma formação que equilibrava teoria e prática, e que permitia um mergulho mais profundo nas complexidades do desenvolvimento de software. Essa decisão, impulsionada pelo desejo de aprofundar seus conhecimentos em programação, foi crucial para o seu desenvolvimento profissional e pessoal.
 
-     Ao longo dos semestres, Leonardo se envolveu em diversas atividades acadêmicas que contribuíram significativamente para sua formação. Entre as disciplinas mais 
-marcantes, ele destaca os Trabalhos Interdisciplinares (TIS). Esses projetos eram estruturados para integrar o conteúdo aprendido ao longo do semestre, desafiando os 
-alunos a aplicar o conhecimento em situações práticas. Para Leonardo, os TIS foram fundamentais, pois ensinaram a importância do trabalho em equipe, da comunicação e 
-da capacidade de solucionar problemas complexos de forma colaborativa. Ele acredita que essas experiências foram essenciais para prepará-lo para o mercado de trabalho, 
-onde a integração de múltiplas disciplinas e a colaboração são indispensáveis.
+Ao longo de sua graduação, Leonardo enfrentou diversos desafios acadêmicos. Ele reconhece que seu desempenho poderia ter sido superior em alguns momentos, mas, apesar disso, ele não se arrepende dos caminhos que escolheu trilhar. Para Leonardo, a universidade foi muito mais do que apenas um lugar de aprendizado técnico; foi um espaço onde ele pôde construir relações duradouras e conhecer pessoas que hoje considera essenciais para sua futura carreira. Essas conexões, muitas vezes subestimadas no contexto acadêmico, tornaram-se um dos aspectos mais valiosos de sua experiência universitária. Elas não só lhe ofereceram suporte durante os momentos difíceis, mas também abriram portas para oportunidades que ele talvez não tivesse encontrado por conta própria.
 
-     Paralelamente à sua trajetória acadêmica, Leonardo buscou oportunidades para ganhar experiência no mercado de trabalho. Seu primeiro estágio foi na Procuradoria 
-da Fazenda, uma experiência que, embora não estivesse diretamente relacionada à programação, foi extremamente enriquecedora. Durante esse período, Leonardo teve a oportunidade 
-de observar de perto a dinâmica do setor público e entender como grandes organizações operam. Esse estágio também foi importante para o desenvolvimento de sua ética profissional 
-e para a construção de uma base sólida de habilidades interpessoais.
+Dentro do currículo de Engenharia de Software, Leonardo identifica os Trabalhos Interdisciplinares (TIS) como as experiências acadêmicas mais impactantes. Essas disciplinas eram estruturadas de forma a integrar o conteúdo aprendido ao longo do semestre, exigindo dos alunos uma aplicação prática do conhecimento em diferentes contextos. Para Leonardo, os TIS não só reforçavam o aprendizado teórico, mas também proporcionavam uma oportunidade única de trabalhar em equipe e de desenvolver projetos que exigiam uma visão ampla e integrada. Ele acredita que essas atividades foram fundamentais para sua formação, pois lhe permitiram ver o panorama completo do que significa desenvolver software em um ambiente real, onde múltiplas disciplinas e habilidades precisam convergir para a solução de problemas complexos.
 
-     Com o passar do tempo, Leonardo sentiu a necessidade de buscar uma experiência mais alinhada com sua formação em Engenharia de Software. Foi então que surgiu a oportunidade 
-de ingressar na multinacional Ernest & Young (EY), uma das maiores empresas de consultoria do mundo. Na EY, Leonardo foi contratado para atuar na área de Technology Consulting, 
-onde pode aplicar diretamente os conhecimentos adquiridos na graduação. Trabalhar em uma empresa de renome internacional foi um divisor de águas em sua carreira. Na EY, ele se 
-deparou com desafios diários que exigiam constante aprendizado e adaptação. Além disso, teve a chance de trabalhar com tecnologias de ponta e participar de projetos de grande 
-impacto no mundo dos negócios.
+A experiência de Leonardo no mercado de trabalho começou de forma tímida, com um estágio na Procuradoria da Fazenda. Esse estágio, embora não diretamente relacionado à área de desenvolvimento de software, foi uma importante fase de aprendizado. Trabalhando na Procuradoria, Leonardo teve a oportunidade de observar a dinâmica do setor público e de entender como grandes organizações operam. Mesmo que seu papel naquele momento não envolvesse diretamente programação, essa experiência inicial foi valiosa para o desenvolvimento de sua ética profissional e compreensão de ambientes corporativos.
 
-     Essa experiência na EY não apenas consolidou seus conhecimentos técnicos, mas também ampliou sua visão sobre o mercado de tecnologia e as inúmeras possibilidades de carreira 
-dentro desse universo. Leonardo se sente grato por essa oportunidade e acredita que ela foi essencial para confirmar que está no caminho certo.
+Recentemente, Leonardo deu um passo significativo em sua carreira ao ingressar na multinacional Ernest & Young (EY), uma das maiores empresas de consultoria do mundo. Na EY, ele foi contratado para trabalhar na área de Technology Consulting, um campo que lhe permite aplicar diretamente os conhecimentos adquiridos ao longo da graduação. Trabalhar em uma empresa de renome internacional tem sido uma experiência transformadora para Leonardo. Ele se sente desafiado diariamente e está empolgado com as oportunidades de crescimento e aprendizado que a EY oferece. Nesta função, Leonardo tem a chance de lidar com tecnologias de ponta e de contribuir para projetos que têm impacto real no mundo dos negócios. A experiência na EY tem sido extremamente gratificante, confirmando para ele que está no caminho certo em sua carreira.
 
-    Além das atividades acadêmicas e profissionais, Leonardo sempre fez questão de participar ativamente dos eventos e atividades extracurriculares promovidos pela PUC Minas. 
-Ele esteve presente em eventos como a PUC Aberta, onde teve a chance de interagir com futuros alunos e compartilhar suas experiências. Também participou de diversas palestras e 
-workshops sobre tecnologia, que o ajudaram a se manter atualizado sobre as últimas tendências e inovações na área. Para Leonardo, essas atividades extracurriculares foram tão 
-importantes quanto as aulas formais, pois enriqueceram sua formação e proporcionaram valiosas oportunidades de networking.
+Além de suas atividades acadêmicas e profissionais, Leonardo sempre fez questão de participar ativamente dos eventos e atividades extracurriculares oferecidos pela PUC Minas. Ele esteve presente em eventos como a PUC Aberta, um importante momento de interação com futuros alunos, e fez questão de comparecer a diversas palestras sobre tecnologia. Para Leonardo, essas oportunidades de aprendizado fora da sala de aula foram tão importantes quanto as aulas formais. Ele acredita que esses eventos o mantiveram atualizado sobre as últimas tendências e inovações na área de tecnologia, além de oferecerem um espaço valioso para networking. Essas experiências enriqueceram sua formação e o prepararam melhor para os desafios do mercado de trabalho.
 
-    À medida que a conclusão de sua graduação se aproxima, Leonardo já começou a planejar seus próximos passos. Durante o curso, desenvolveu um grande interesse por 
-Inteligência Artificial (IA), uma área que considera fundamental para o futuro da tecnologia. Ele pretende continuar seus estudos, buscando uma pós-graduação focada em IA, 
-preferencialmente no exterior. Leonardo vê nessa especialização uma oportunidade de aprofundar seus conhecimentos e se preparar para novos desafios. Além disso, acredita que uma 
-formação internacional poderá abrir portas para uma carreira global, onde ele possa trabalhar em projetos inovadores e contribuir para o avanço da tecnologia.
+Com a conclusão da graduação em Engenharia de Software se aproximando, Leonardo já começou a planejar seus próximos passos. Ele tem um forte interesse em continuar seus estudos e pretende iniciar uma pós-graduação logo após a formatura. Seu plano é buscar uma especialização no exterior, focada em Inteligência Artificial (IA), uma área que ele descobriu ser uma de suas grandes paixões durante o curso. A IA representa, para Leonardo, o futuro da tecnologia, e ele está determinado a se tornar um especialista nesse campo. Ele vê na pós-graduação uma oportunidade não apenas de aprofundar seus conhecimentos, mas também de abrir portas para uma carreira internacional, onde ele possa trabalhar em projetos inovadores e desafiadores.
 
-    Com a graduação chegando ao fim, Leonardo olha para trás com orgulho de tudo o que conquistou. Ele sabe que o caminho não foi sempre fácil, mas cada desafio enfrentado contribuiu 
-    para seu crescimento pessoal e profissional. A formação recebida, combinada com suas experiências práticas, o preparou para enfrentar os desafios do mercado de tecnologia com confiança. 
-    Agora, Leonardo está pronto para seguir em frente, determinado a continuar aprendendo, evoluindo e deixando sua marca no mundo da tecnologia.
-
-    
-
-     
+Leonardo Augusto Pereira do Carmo conclui sua graduação em Engenharia de Software com um sentimento de realização e entusiasmo pelo futuro. Ele sabe que ainda há muito a aprender, mas está confiante de que a formação que recebeu, combinada com suas experiências profissionais e extracurriculares, o preparou bem para os desafios que estão por vir. Com a ambição de continuar se especializando e a determinação de fazer a diferença na área de tecnologia, Leonardo está pronto para seguir em frente e deixar sua marca no mundo da tecnologia.
