@@ -1,0 +1,12 @@
+Assured LLM-Based Software Engineering
+
+No artigo "Assured LLM-Based Software Engineering", os autores destacam passagens importantes, como: “LLM-generated code requires verification and assurance for industrial adoption.” (p. 2), apontando riscos ao usar código de IA sem validação.
+“Verification pipelines are essential to ensure code safety and compliance.” (p. 3), defendendo o uso de ferramentas que garantam confiabilidade.
+“Trust and robustness are key to integrating LLMs into critical software development.” (p. 4), reforçando a necessidade de confiança no código gerado.. O conteúdo do estudo pode ser resumido da seguinte forma: Este artigo discute a necessidade de garantir segurança e confiabilidade no uso de IA na engenharia de software. Foca nos desafios do código gerado por LLMs, que pode conter falhas, não seguir padrões ou apresentar vulnerabilidades. O autor propõe a criação de pipelines de verificação que validem o código automaticamente, testando segurança, desempenho e conformidade legal. Também aborda aspectos éticos e de responsabilidade no uso de IA, alertando sobre a sobrecarga de confiança em modelos opacos. A pesquisa sugere um modelo de adoção gradual de LLMs, começando por tarefas simples e evoluindo para responsabilidades maiores com validação contínua. Conclui que, sem essas garantias, a aplicação de LLMs em software crítico pode ser inviável e até arriscada. Quanto aos conceitos relevantes abordados, destacam-se: - Verificação de código: Processo de avaliar se o código é seguro, correto e segue padrões estabelecidos.
+- Conformidade: Adesão a normas técnicas e legais, como licenciamento e proteção de dados.
+- Confiança na IA: Expectativa de que os sistemas de IA funcionem de forma previsível e explicável. Em relação às ferramentas e tecnologias mencionadas, incluem-se: e Tecnologias**
+- Pipelines de verificação Conjuntos de ferramentas e etapas que analisam automaticamente o código.
+- Model Checkers Ferramentas que verificam formalmente se o código segue especificações.
+- LLMs (ex GPT-4) Usados para gerar código e precisam de validação posterior. Por fim, os métodos utilizados no estudo são descritos como: - Análise teórica com proposta de arquitetura para integração segura de IA.
+- Estudo de caso sobre falhas reais em código gerado por IA.
+- Sugestão de métricas e requisitos mínimos para adoção industrial.
