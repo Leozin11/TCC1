@@ -1,0 +1,14 @@
+Trustworthy and Synergistic Artificial Intelligence for Software Engineering: Vision and Roadmaps
+
+No artigo "Trustworthy and Synergistic Artificial Intelligence for Software Engineering: Vision and Roadmaps",  são apresentados trechos importantes como: 
+O artigo destaca que “trust is dynamic; AI4SE solutions need to maintain practitioners’ confidence in them over time”, evidenciando que a confiança nas ferramentas 
+de IA para engenharia de software deve ser construída e sustentada. Outro ponto importante é “Synergy and trust are intrinsically linked”, reforçando que a colaboração 
+eficiente entre humanos e IA depende diretamente da confiança mútua. O estudo pode ser resumido da seguinte forma: O artigo propõe uma visão de futuro para a engenharia 
+de software com a integração de soluções de inteligência artificial confiáveis e sinérgicas. Ele traça um panorama histórico do uso de IA na área, identifica desafios 
+fundamentais como a falta de confiança dos desenvolvedores nas ferramentas de IA e a dificuldade de integração entre humanos e máquinas. O autor apresenta dois roadmaps: 
+um para construir IA confiável (com foco em explicabilidade, privacidade, segurança e licenciamento) e outro para promover sinergia entre humanos e sistemas de IA. A visão 
+proposta culmina na chamada Engenharia de Software 2.0, na qual agentes de IA atuam como colegas autônomos em equipes de desenvolvimento, exigindo bases sólidas éticas e 
+legais para sua adoção. Em relação aos aspectos conceituais e técnicos, destacam-se: Conceitos como IA confiável (capacidade de fornecer resultados seguros e explicáveis), 
+sinergia (colaboração eficiente entre humanos e IA) e Engenharia de Software 2.0 (fusão de desenvolvedores com agentes de IA autônomos) são centrais. Ferramentas mencionadas 
+incluem GitHub Copilot, CodeBERT e técnicas como análise estática, aprendizado federado e modelos de linguagem de grande escala (LLMs). Os métodos utilizados envolvem revisão 
+teórica, construção de roadmap estratégico e análise de estudos de caso, além da proposição de diretrizes práticas.
