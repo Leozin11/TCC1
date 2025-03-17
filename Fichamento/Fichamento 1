@@ -1,0 +1,15 @@
+An Empirical Evaluation of GitHub Copilot’s Code Suggestions
+
+No artigo "An Empirical Evaluation of GitHub Copilot’s Code Suggestions", os autores destacam passagens importantes, como: “Copilot’s Java suggestions have the highest correctness score (57%)” (p. 2), o que demonstra variação entre linguagens e reforça a necessidade de avaliação crítica.
+“Copilot’s suggestions have low complexity with no notable differences between the programming languages.” (p. 3), sugerindo que o código gerado tende a ser compreensível.
+“Copilot may generate code that relies on non-existing helper functions” (p. 4), revelando riscos práticos ao confiar cegamente nas sugestões da IA.. O conteúdo do estudo pode ser resumido da seguinte forma: O artigo analisa o desempenho do GitHub Copilot na geração de código, focando em sua correção e compreensibilidade. Foram testados 132 trechos de código em quatro linguagens (Python, Java, JavaScript e C), com base em 33 problemas do LeetCode. A principal descoberta foi que o Copilot apresentou variações significativas entre linguagens: Java obteve 57% de acertos plenos, enquanto JavaScript apenas 27%. Para avaliar a compreensibilidade, usaram-se métricas como Complexidade Ciclomática e Cognitiva, que se mantiveram baixas na média, indicando código fácil de entender. O estudo também destaca limitações, como dependência de funções não definidas e erros de compilação, especialmente em C. Conclui-se que Copilot pode ser útil para acelerar o desenvolvimento, mas requer validação humana. Os resultados servem de alerta sobre os riscos de confiar totalmente na IA para tarefas críticas de codificação. Quanto aos conceitos relevantes abordados, destacam-se: - Correção de código: Grau em que o código passa nos testes funcionais, essencial para validar a utilidade prática.
+- Complexidade Ciclomática: Número de caminhos lógicos no código; valores baixos indicam facilidade de testes e manutenção.
+- Complexidade Cognitiva: Mede o esforço mental para compreender o código; quanto menor, mais fácil de ler. Em relação às ferramentas e tecnologias mencionadas, incluem-se: e Tecnologias**
+- GitHub Copilot Ferramenta de sugestão de código baseada em IA, alimentada pelo modelo Codex.
+- SonarQube Plataforma de análise estática usada para medir a complexidade do código.
+- LeetCode Plataforma de desafios de programação usada para testar a correção do código. Por fim, os métodos utilizados no estudo são descritos como: - Abordagem quantitativa com execução de testes automatizados (LeetCode) e análise estática (SonarQube).
+- Comparação entre linguagens para identificar padrões de desempenho.
+- Estudo empírico com coleta e análise de 132 amostras de código.
+- Referência cruzada com benchmarks e métricas aceitas na indústria (ex: limite de 15-25 em complexidade ciclomática).
+
+
