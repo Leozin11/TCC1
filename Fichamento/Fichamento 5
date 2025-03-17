@@ -1,0 +1,14 @@
+Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos
+
+No artigo "Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos", são apresentados trechos importantes como: 
+O artigo afirma que “a análise da qualidade do código em plataformas de ensino revela padrões de falhas comuns”, indicando a importância de 
+avaliar códigos gerados por estudantes. Outro destaque é “a automatização da verificação de qualidade pode elevar a eficiência dos cursos e a 
+aprendizagem”, reforçando o papel da IA na educação. O estudo pode ser resumido da seguinte forma: Este estudo investiga a qualidade do código 
+produzido em plataformas de cursos online massivos (MOOCs), analisando como métricas automatizadas podem ajudar a avaliar e melhorar o aprendizado. 
+Foram utilizadas ferramentas de análise estática e métricas como complexidade, legibilidade e eficiência para mensurar a qualidade de programas 
+desenvolvidos por alunos. O trabalho mostra que há recorrência de erros e que a adoção de IA pode não apenas corrigir problemas, mas também orientar 
+os estudantes para melhores práticas. A automatização da avaliação é apontada como fator de ganho na eficiência e qualidade do ensino. Em relação aos 
+aspectos conceituais e técnicos, destacam-se: Os principais conceitos incluem qualidade de código (características que indicam bom desempenho, 
+manutenção e legibilidade) e automação da avaliação (uso de ferramentas para análise em larga escala). As ferramentas destacadas incluem linters, 
+analisadores de complexidade e plataformas MOOC. O estudo aplicou métodos quantitativos de análise de métricas em códigos reais, propondo a adoção 
+de soluções automatizadas para feedback educativo.
